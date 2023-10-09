@@ -288,6 +288,7 @@
 	class="block w-64 border p-1 dark:text-white"
 	bind:value={selectedDropdown}
 	name="filter-dropdown"
+  aria-label="program selector dropdown"
 	id="">
 	{#each dropdownOptions as dropdownOption}
 		<option value={dropdownOption}>{dropdownOption}</option>
