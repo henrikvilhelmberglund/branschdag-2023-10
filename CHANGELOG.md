@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.9](https://github.com/henrikvilhelmberglund/branschdag-2023-10/compare/v0.0.8...v0.0.9) (2023-10-09)
+
+
+### Bug Fixes
+
+* :bug: add back .push() I removed by mistake ([24aef2a](https://github.com/henrikvilhelmberglund/branschdag-2023-10/commit/24aef2afb3a8913f6c61fa88c0321a77696180bd))
+
 ## 0.0.8 (2023-10-09)
 
 
