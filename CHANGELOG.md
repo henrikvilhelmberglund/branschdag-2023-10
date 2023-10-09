@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.10](https://github.com/henrikvilhelmberglund/branschdag-2023-10/compare/v0.0.9...v0.0.10) (2023-10-09)
+
+
+### Bug Fixes
+
+* :bug: fix Javautvecklare ([50c2152](https://github.com/henrikvilhelmberglund/branschdag-2023-10/commit/50c215279dde7941f3b4dd7ad3d86663ac33c07a))
+
 ## [0.0.9](https://github.com/henrikvilhelmberglund/branschdag-2023-10/compare/v0.0.8...v0.0.9) (2023-10-09)
 
 
