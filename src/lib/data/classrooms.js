@@ -21,7 +21,7 @@ B202: ["JH Support", "Devoteam", "Azeo", "B3"],
 B204: ["Svenskdrift", "EdgeGuide", "GlobalConnect", "Capgemini"],
 },
 {
-B205: ["Triggerbee", "Epinova", "Releye", "Noa Ignite"],
+B205: ["Triggerbee", "Epinova", "Releye", "NoA Ignite"],
 },
 ],
  C: [

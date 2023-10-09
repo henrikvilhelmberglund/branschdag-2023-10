@@ -95,6 +95,10 @@ async function scrapeClassrooms(page) {
 							pattern: /Trafikverket$/m,
 							replacement: "Trafikförvaltningen Region Stockholm",
 						},
+						{
+							pattern: /Noa Ignite$/m,
+							replacement: "NoA Ignite",
+						},
 					];
 
 					patterns.forEach(({ pattern, replacement }) => {
