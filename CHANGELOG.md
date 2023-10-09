@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 0.0.8 (2023-10-09)
+
+
+### Features
+
+* :mag: add aria-label for select tag ([77bcd08](https://github.com/henrikvilhelmberglund/branschdag-2023-10/commit/77bcd088f4045ca26508f985b649565a40ef0244))
+* :card_file_box: add regex for NoA Ignite ([4cb60ab](https://github.com/henrikvilhelmberglund/branschdag-2023-10/commit/4cb60ab413592286c2ba29f7145af1db9ad7a0f9))
+
+
+### Bug Fixes
+
+* :rocket: fix base path ([9b250b3](https://github.com/henrikvilhelmberglund/branschdag-2023-10/commit/9b250b3e15cf64da2016afe28bc98d2f333dbf54))
+
 ## 0.0.7 (2023-10-09)
 
 
