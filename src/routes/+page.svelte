@@ -170,6 +170,7 @@
 						currentKey.includes("kontakta mig om du har några frågor") ||
 						currentKey.includes("Kontakta mig om du har några frågor") ||
 						currentKey.includes("Kontakta mig om du har frågor") ||
+						currentKey.includes("Några exempel på avdelningar/tjänster som finns hos oss") ||
 						currentKey === "Om oss/att jobba med oss"
 					) {
 						// start a new array for these keys
@@ -222,6 +223,7 @@
 						if (!obj[currentKey]) {
 							obj[currentKey] = [];
 						}
+						obj[currentKey].push(line);
 					} else if (currentKey === "Några av de område som vi arbetar med är") {
 						// add value to current array
 						if (!obj[currentKey]) {
@@ -288,7 +290,7 @@
 	class="block w-64 border p-1 dark:text-white"
 	bind:value={selectedDropdown}
 	name="filter-dropdown"
-  aria-label="program selector dropdown"
+	aria-label="program selector dropdown"
 	id="">
 	{#each dropdownOptions as dropdownOption}
 		<option value={dropdownOption}>{dropdownOption}</option>
